@@ -1,8 +1,9 @@
-<!-- README.md - Professional Data Scientist Profile -->
+<!-- README.md - Professional Data Scientist Profile (fixed) -->
 
+<!-- ====== BANNER: put your image into the repo at assets/banner.png ====== -->
 <p align="center">
-  <!-- Replace banner URL if you have a custom graphic -->
-  <img src="https://www.google.com/imgres?q=data%20scientisit%20%20template%20pinterest&imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F1325034866%2Fvector%2Fdata-analysis-vector-illustration-with-young-woman-sitting-in-front-of-big-computer-monitor.jpg%3Fs%3D612x612%26w%3D0%26k%3D20%26c%3Dn5-pe8pgPfPMcRpOL8bpy6mcx-LHrxLs2sYX1vJ9smM%3D&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fdata-scientist&docid=iqUda8Z-e3kryM&tbnid=YgOD92pINxy9oM&vet=12ahUKEwiU59ytne6QAxUy1DgGHcd4Mc8QM3oECG8QAA..i&w=612&h=428&hcb=2&ved=2ahUKEwiU59ytne6QAxUy1DgGHcd4Mc8QM3oECG8QAA" alt="banner" width="760"/>
+  <!-- Use a local image inside your repo for consistent rendering -->
+  <img src="./assets/banner.png" alt="Data science banner" style="max-width:100%; height:auto; border-radius:8px;" />
 </p>
 
 <h1 align="center">Shruti Somvanshi — Data Scientist</h1>
@@ -15,138 +16,110 @@
 ---
 
 ## Summary
-I build data-driven solutions — from exploratory analysis and reporting to deployed machine learning models. My strengths are: problem framing, reproducible experiments, model validation, and communicating insights to stakeholders.
-
-**Core areas:** Supervised & unsupervised learning, time series, NLP, deep learning prototyping, data visualization, A/B testing, and dashboarding.
+I build reproducible data science solutions: EDA, feature engineering, validated ML models, and dashboards for stakeholder-facing insights. I focus on clear communication, robust pipelines, and production-ready artifacts.
 
 ---
 
 ## Professional Snapshot
-- 🔬 Data Science & ML pipelines (Python, scikit-learn, TensorFlow/PyTorch)  
-- 📊 Data wrangling & visualization (Pandas, NumPy, Matplotlib, Seaborn, Plotly)  
-- 🧰 Tools: Jupyter, Docker, Git, SQL, Power BI / Tableau  
-- 🧾 Output orientation: reproducible notebooks, model package + inference API, dashboards
+- **Core:** Python, Pandas, scikit-learn, TensorFlow/PyTorch, SQL  
+- **Visualization:** Matplotlib, Seaborn, Plotly, Dash, Power BI  
+- **Tools:** Jupyter, Git, Docker, CI, cloud inference (optional)
 
 ---
 
-## Key Metrics
+## Key Metrics (Edit these values below)
+Below are placeholder values — open this file and replace the numbers (both the numeric labels and the percentage widths) with your real counts.
 
-> Update these numbers below to reflect your real counts:
-> - `projects_done`: number of completed end-to-end projects (research + delivery)
-> - `public_repos`: number of public repositories on GitHub
-> - `analyses`: number of exploratory analyses / reports
-> - `notebooks`: number of Jupyter notebooks or demo notebooks
+- Projects completed: **12**
+- Public repos: **24**
+- Analyses / reports: **30**
+- Notebooks / demos: **18**
 
-<!-- ====== Bar Chart: projects / repos / analyses / notebooks ====== -->
-<!-- If you want to edit numbers, change the values in the <text> elements with ids: v_projects, v_repos, v_analyses, v_notebooks -->
+> To update: change the numbers in the SVG text nodes and the percentage widths of the bars. The bars use percent widths so they scale well.
+
+<!-- ====== Bar chart (clean, high-contrast) ====== -->
 <p align="center">
-  <svg width="720" height="180" viewBox="0 0 720 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Project and repo metrics">
+  <svg width="760" height="220" viewBox="0 0 760 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Portfolio metrics">
     <style>
-      .label { font: 12px 'Inter', Arial, sans-serif; fill: #6b7280; }
-      .value  { font: bold 13px 'Inter', Arial, sans-serif; fill: #111827; }
-      .bar-bg { fill: #e6e9ee; }
-      .bar-fill { fill: #0ea5a4; }
+      .title { font: 600 16px/1 'Inter', Arial, sans-serif; fill:#0f172a; }
+      .label { font: 12px 'Inter', Arial, sans-serif; fill:#334155; }
+      .value { font: 600 13px 'Inter', Arial, sans-serif; fill:#0f172a; }
+      .bg { fill:#e6eef6; rx:8; }
+      .bar { fill:#0369a1; rx:8; }
     </style>
 
-    <!-- Chart title -->
-    <text x="20" y="22" class="value">Portfolio Metrics</text>
+    <text x="20" y="28" class="title">Portfolio Metrics</text>
 
-    <!-- Row 1: Projects Done -->
-    <text x="20" y="56" class="label">Projects completed</text>
-    <!-- VALUE (edit id="v_projects") -->
-    <text id="v_projects" x="620" y="56" class="value">12</text>
-    <rect x="150" y="44" width="460" height="14" rx="7" class="bar-bg"/>
-    <rect x="150" y="44" width="276" height="14" rx="7" class="bar-fill"/>
+    <!-- Row 1 -->
+    <text x="20" y="70" class="label">Projects completed</text>
+    <text x="700" y="70" text-anchor="end" class="value">12</text>
+    <rect x="160" y="58" width="560" height="18" class="bg" />
+    <!-- Replace width="50%" with your percentage for Projects (example 50%) -->
+    <rect x="160" y="58" width="50%" height="18" class="bar" />
 
-    <!-- Row 2: Public Repos -->
-    <text x="20" y="92" class="label">Public repositories</text>
-    <!-- VALUE (edit id="v_repos") -->
-    <text id="v_repos" x="620" y="92" class="value">24</text>
-    <rect x="150" y="78" width="460" height="14" rx="7" class="bar-bg"/>
-    <rect x="150" y="78" width="552" height="14" rx="7" class="bar-fill" opacity="0.95"/>
+    <!-- Row 2 -->
+    <text x="20" y="110" class="label">Public repositories</text>
+    <text x="700" y="110" text-anchor="end" class="value">24</text>
+    <rect x="160" y="98" width="560" height="18" class="bg" />
+    <!-- Replace width="100%" with your percentage for Repos (example 100%) -->
+    <rect x="160" y="98" width="100%" height="18" class="bar" />
 
-    <!-- Row 3: Analyses / Reports -->
-    <text x="20" y="128" class="label">Exploratory analyses / reports</text>
-    <!-- VALUE (edit id="v_analyses") -->
-    <text id="v_analyses" x="620" y="128" class="value">30</text>
-    <rect x="150" y="114" width="460" height="14" rx="7" class="bar-bg"/>
-    <rect x="150" y="114" width="345" height="14" rx="7" class="bar-fill" opacity="0.9"/>
+    <!-- Row 3 -->
+    <text x="20" y="150" class="label">Exploratory analyses / reports</text>
+    <text x="700" y="150" text-anchor="end" class="value">30</text>
+    <rect x="160" y="138" width="560" height="18" class="bg" />
+    <!-- Replace width="80%" with your percentage for Analyses (example 80%) -->
+    <rect x="160" y="138" width="80%" height="18" class="bar" />
 
-    <!-- Row 4: Notebooks -->
-    <text x="20" y="164" class="label">Jupyter notebooks / demos</text>
-    <!-- VALUE (edit id="v_notebooks") -->
-    <text id="v_notebooks" x="620" y="164" class="value">18</text>
-    <rect x="150" y="150" width="460" height="14" rx="7" class="bar-bg"/>
-    <rect x="150" y="150" width="207" height="14" rx="7" class="bar-fill" opacity="0.85"/>
+    <!-- Row 4 -->
+    <text x="20" y="190" class="label">Jupyter notebooks / demos</text>
+    <text x="700" y="190" text-anchor="end" class="value">18</text>
+    <rect x="160" y="178" width="560" height="18" class="bg" />
+    <!-- Replace width="60%" with your percentage for Notebooks (example 60%) -->
+    <rect x="160" y="178" width="60%" height="18" class="bar" />
   </svg>
 </p>
 
-> Tip: modify the numeric text nodes (ids `v_projects`, `v_repos`, `v_analyses`, `v_notebooks`) and scale the corresponding width attributes of the `.bar-fill` rects to fit your new numbers.
+**How to set correct widths quickly:** choose a baseline (for example, `public_repos` is max → `100%`), then compute each other metric as `(value / max) * 100` and paste that percentage into the `width="..."` attribute for each `.bar` rect.
 
 ---
 
-## Language / Toolkit Distribution
+## Language / Toolkit Distribution (Edit values)
+Below is a static donut chart. Edit the legend percentages to reflect your real usage (and adjust colors if you want).
 
-> Edit the percentage numbers below to match your actual usage. The SVG donut will update visually when you change the path arcs; for simple edits, replace the percentages in the small legend and (optionally) update arc sizes.
+```svg
+<!-- Copy this SVG block below the text to render the donut -->
+<svg width="420" height="220" viewBox="0 0 420 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Language usage">
+  <style>
+    .title { font: 600 15px/1 'Inter', Arial, sans-serif; fill:#0f172a; }
+    .legend { font: 12px 'Inter', Arial, sans-serif; fill:#334155; }
+  </style>
 
-<p align="center">
-  <!-- Donut chart (static arcs matched to placeholder percentages) -->
-  <svg width="360" height="200" viewBox="0 0 360 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Language usage">
-    <style>
-      .legend { font: 12px 'Inter', Arial, sans-serif; fill: #374151; }
-      .subtitle { font: 13px 'Inter', Arial, sans-serif; fill: #111827; font-weight:600 }
-    </style>
+  <text x="20" y="28" class="title">Language / Tool Usage</text>
 
-    <text x="20" y="20" class="subtitle">Language / Tool Usage</text>
+  <!-- Donut center at (300,115) -->
+  <g transform="translate(300,115)">
+    <!-- Outer ring segments (static paths matching example percents). If you change percents, you can replace the paths or swap with an image -->
+    <!-- Python 48% -->
+    <path d="M 60 0 A 60 60 0 0 1 -9.6 58.4 L -9.6 58.4 A 36 36 0 0 0 35 0 Z" fill="#306998"/>
+    <!-- C++ 16% -->
+    <path d="M -9.6 58.4 A 60 60 0 0 1 -58.4 9.6 L -58.4 9.6 A 36 36 0 0 0 -5.6 9.6 Z" fill="#00599C"/>
+    <!-- SQL 12% -->
+    <path d="M -58.4 9.6 A 60 60 0 0 1 -35 -52 L -35 -52 A 36 36 0 0 0 -18 -39 Z" fill="#264de4"/>
+    <!-- R 8% -->
+    <path d="M -35 -52 A 60 60 0 0 1 35 -52 L 35 -52 A 36 36 0 0 0 20 -30 Z" fill="#276dc3"/>
+    <!-- JS 16% -->
+    <path d="M 35 -52 A 60 60 0 0 1 60 0 L 60 0 A 36 36 0 0 0 35 0 Z" fill="#f7df1e"/>
+    <circle r="32" fill="#ffffff"/>
+    <text x="0" y="6" font-size="11" text-anchor="middle" fill="#0f172a" font-weight="600">Usage</text>
+  </g>
 
-    <!-- Centered Donut -->
-    <g transform="translate(200,110)">
-      <!-- Background circle -->
-      <circle r="60" fill="#f3f4f6"/>
-      <!-- Python slice (~48%) -->
-      <path d="M 60 0 A 60 60 0 0 1  -9.6 58.4 L -9.6 58.4 A 35 35 0 0 0  35 0 Z" fill="#3776AB"/>
-      <!-- C++ slice (~16%) -->
-      <path d="M -9.6 58.4 A 60 60 0 0 1 -58.4 9.6 L -58.4 9.6 A 35 35 0 0 0 -5.6 9.6 Z" fill="#00599C"/>
-      <!-- SQL slice (~12%) -->
-      <path d="M -58.4 9.6 A 60 60 0 0 1 -35 -52 L -35 -52 A 35 35 0 0 0 -18 -39 Z" fill="#264de4"/>
-      <!-- R slice (~8%) -->
-      <path d="M -35 -52 A 60 60 0 0 1  35 -52 L 35 -52 A 35 35 0 0 0  20 -30 Z" fill="#276dc3"/>
-      <!-- JS slice (~16%) -->
-      <path d="M 35 -52 A 60 60 0 0 1  60 0 L 60 0 A 35 35 0 0 0  35 0 Z" fill="#f7df1e"/>
-      <!-- inner hole -->
-      <circle r="30" fill="#ffffff"/>
-      <text x="0" y="5" font-size="10" text-anchor="middle" fill="#111827">Usage</text>
-    </g>
-
-    <!-- Legend -->
-    <g transform="translate(20,40)">
-      <rect x="0" y="0" width="12" height="12" fill="#3776AB"/><text x="18" y="10" class="legend">Python — 48%</text>
-      <rect x="0" y="20" width="12" height="12" fill="#00599C"/><text x="18" y="30" class="legend">C++ — 16%</text>
-      <rect x="0" y="40" width="12" height="12" fill="#264de4"/><text x="18" y="50" class="legend">SQL — 12%</text>
-      <rect x="0" y="60" width="12" height="12" fill="#276dc3"/><text x="18" y="70" class="legend">R — 8%</text>
-      <rect x="0" y="80" width="12" height="12" fill="#f7df1e"/><text x="18" y="90" class="legend">JavaScript — 16%</text>
-    </g>
-  </svg>
-</p>
-
----
-
-## Selected Projects (high-level)
-- **Customer Churn Prediction** — end-to-end pipeline: EDA, feature engineering, model (XGBoost), and deployment as Flask API.  
-- **Sales Forecasting (time series)** — hierarchical forecasting + Prophet + neural nets, deployed dashboard.  
-- **NLP - Review Summarizer** — transformer-based summarization + evaluation & AB test.  
-- **Netflix / Zomato Analysis** — cleaned datasets, visual storytelling, interactive dashboards.
-
-(Provide links to 3–5 repo URLs under this section.)
-
----
-
-## GitHub Activity
-<p align="center">
-  <!-- Replace your-github-username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&title_color=111827&icon_color=0ea5a4&text_color=6b7280&bg_color=ffffff" alt="GitHub stats" />
-</p>
-
-
-
-
+  <!-- Legend -->
+  <g transform="translate(20,48)">
+    <rect x="0" y="0" width="12" height="12" fill="#306998"/><text x="18" y="10" class="legend">Python — 48%</text>
+    <rect x="0" y="24" width="12" height="12" fill="#00599C"/><text x="18" y="34" class="legend">C++ — 16%</text>
+    <rect x="0" y="48" width="12" height="12" fill="#264de4"/><text x="18" y="58" class="legend">SQL — 12%</text>
+    <rect x="0" y="72" width="12" height="12" fill="#276dc3"/><text x="18" y="82" class="legend">R — 8%</text>
+    <rect x="0" y="96" width="12" height="12" fill="#f7df1e"/><text x="18" y="106" class="legend">JavaScript — 16%</text>
+  </g>
+</svg>
