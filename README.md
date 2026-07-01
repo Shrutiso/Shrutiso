@@ -1,162 +1,368 @@
-# Hi there, I'm Shruti Somvanshi! 👋
+<h1 align="center">Hi 👋, I'm Shruti Somvanshi</h1>
+
+<h3 align="center">
+AI & Machine Learning Enthusiast • Data Science Learner • Full Stack Developer • Open Source Contributor 🚀
+</h3>
 
 <p align="center">
-  <a href="mailto:somvanshishruti7@gmail.com"><img src="https://img.shields.io/badge/Email-somvanshishruti7%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/shrutisomvanshi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://leetcode.com/u/shrutiso"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-  <a href="https://github.com/shrutiso"><img src="https://img.shields.io/github/followers/shrutiso?label=Followers&style=flat-square&color=24292e&logo=github" alt="GitHub Followers"></a>
+Building AI-powered applications that solve real-world problems using Machine Learning, Generative AI, Data Analytics and Full Stack Development.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shrutiso&label=Profile%20Views&color=0e75b6&style=flat-square" alt="shrutiso"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=650&lines=AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Building+Real-World+AI+Applications;Python+%7C+Java+%7C+Data+Science;Always+Learning+Something+New+%F0%9F%9A%80" />
+
 </p>
-
----
-
-## 👩‍💻 About Me
-
-I am a passionate **Data Science & Machine Learning Enthusiast** and **Full-Stack Developer** currently in my pre-final year of B.Tech. I enjoy building intelligent, AI-powered applications that solve real-world problems using Machine Learning, Generative AI (LLMs, LangChain, RAG), Data Analytics, and Full-Stack Development.
-
-* 🏆 **IIT Ropar Hackathon Winner** — Built innovative solution solving real-world challenges.
-* 🥈 **1st Runner-up – TechHer Ideathon** — Developed a high-impact product concept.
-* 🚀 **Open Source Contributor** (GSSoC'25) — Actively contributing to open-source software.
-* 🌱 Currently exploring **Advanced RAG, AI Agents, LLM Fine-tuning, & Data Engineering**.
-* 📧 Reach me at: [somvanshishruti7@gmail.com](mailto:somvanshishruti7@gmail.com)
-
----
-
-## 🎯 Goals & Focus Areas
-
-- 💻 **Target Roles:** Machine Learning Engineer, Generative AI Developer, Data Scientist, Full-Stack AI Developer.
-- ⚡ **Current Learning Track:** Custom AI Agent architectures, Graph Neural Networks, Fine-Tuning LLMs using QLoRA/PEFT, and building robust Vector Databases.
-- 📈 **Long-term:** Contributing to large-scale open source repositories and architecting high-performance, low-latency AI pipelines.
-
----
-
-## 🌟 Strengths & Work Ethic
-
-- **Analytical Problem Solving**: Strong mathematical and logical foundation, practiced regularly through algorithms and competitive programming.
-- **Collaborative Engineering**: Active open-source participant, accustomed to git workflows, code reviews, and cross-functional hackathon teamwork.
-- **Continuous Adaptation**: Fast at adopting modern libraries and frameworks, with a dedication to writing clean, maintainable, and well-documented code.
-
----
-
-## 🛠️ Technical Toolbox
-
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-### 🤖 AI, Machine Learning & Data Science
-<p>
-  <img src="https://img.shields.io/badge/Generative_AI-FF6F61?style=flat-square&logo=openai&logoColor=white" alt="GenAI" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E44AD?style=flat-square&logo=google-gemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-</p>
-
-### 🌐 Web Development & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-</p>
-
-### 🛠️ Databases, Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D7191C?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 [InsideInterview](https://github.com/Shrutiso/InsideInterview)
-*AI-Powered Personalized Interview Preparation Platform*
-- **Description:** A comprehensive interview preparation platform featuring AI-powered resume analysis, domain-specific assessments, interactive mock interviews, and personalized career roadmaps.
-- **Key Impact:** Uses Google Gemini and LangChain to orchestrate adaptive career coaching, track user learning metrics, and generate real-time feedback.
-- **Tech Stack:** `Python` • `Streamlit` • `Google Gemini API` • `LangChain` • `SQLite` • `Pandas` • `Plotly`
-
-### 💰 [SettleWise](https://github.com/Shrutiso/SettleWise)
-*Intelligent Shared Expense Management Platform*
-- **Description:** A smart finance manager facilitating group expense splitting, payment settlements optimization, anomaly transaction detection, and detailed reporting dashboards.
-- **Key Impact:** Implemented settlement-optimization algorithms to minimize transaction steps and integrated approval workflows for shared group logs.
-- **Tech Stack:** `Python` • `Streamlit` • `SQLite` • `SQLAlchemy` • `Pandas` • `NumPy` • `Plotly`
-
-### 💡 [FinSaathi AI](https://github.com/Shrutiso/FinSaathi-AI)
-*AI-Powered Personal Finance Companion*
-- **Description:** Multilingual conversational finance assistant aiding in credit awareness, budget tracking, transaction logging, and automated financial planning recommendations.
-- **Key Impact:** Structured to empower users through conversational advice, built with an elegant, responsive frontend interface.
-- **Tech Stack:** `React` • `TypeScript` • `Tailwind CSS` • `Supabase` • `Generative AI`
-
-### 🌦️ [Outlook SmartWeather](https://github.com/Shrutiso/Outlook-SmartWeather)
-*Intelligent Weather Platform & Planner*
-- **Description:** A feature-rich weather assistant providing real-time conditions, clothing advice, rain prediction, and travel itinerary suggestions.
-- **Key Impact:** Integrated REST weather APIs, secure Google OAuth authentication, and interactive front-end views for an intuitive user experience.
-- **Tech Stack:** `Python` • `Flask` • `HTML` • `CSS` • `Pandas` • `REST APIs` • `Google OAuth`
-
-### 😊 [Human Emotion Detection](https://github.com/Shrutiso/Emotion_detection-Text-Based-)
-*Text-Based Emotion Classification System*
-- **Description:** An NLP classifier designed to process user input text and categorize primary underlying human emotions.
-- **Key Impact:** Built with custom preprocessing pipelines and classification algorithms to offer semantic insight analysis.
-- **Tech Stack:** `Python` • `Machine Learning` • `NLP` • `Scikit-Learn`
-
----
-
-## 📊 GitHub Metrics & Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shrutiso&theme=react&column=5" alt="GitHub Trophies" />
-</p>
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=shrutiso&show_icons=true&locale=en&theme=react&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutiso&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <br/>
-  
-  ### 🐍 Contribution Grid Snake
-  <img src="https://raw.githubusercontent.com/shrutiso/shrutiso/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutiso&theme=react&hide_border=true" alt="GitHub Streak" />
-</div>
+<img src="https://komarev.com/ghpvc/?username=Shrutiso&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+<img src="https://img.shields.io/github/followers/Shrutiso?label=Followers&style=social"/>
+
+<img src="https://img.shields.io/github/stars/Shrutiso?affiliations=OWNER&style=social"/>
+
+</p>
 
 ---
 
-## 🤝 Let's Connect!
+# 💫 About Me
 
-I am always open to discussing new opportunities, open-source projects, hackathons, or tech innovations. Feel free to reach out!
+🎓 Pre-Final Year B.Tech Student passionate about building AI-powered solutions that solve real-world problems.
 
-* 📧 **Email:** [somvanshishruti7@gmail.com](mailto:somvanshishruti7@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/shrutisomvanshi](https://linkedin.com/in/shrutisomvanshi)
-* 🧩 **LeetCode:** [leetcode.com/u/shrutiso](https://leetcode.com/u/shrutiso)
+I enjoy combining **Artificial Intelligence, Machine Learning, Data Science, Analytics, and Full Stack Development** to create impactful applications.
 
-<br/>
+I believe in learning by building and have developed multiple end-to-end AI projects ranging from interview preparation systems to intelligent finance and weather platforms.
 
-<div align="center">
-  <h3>⭐ Thank you for visiting my profile! If you find my projects helpful, feel free to drop a star on the repos! ⭐</h3>
-  <p><i>"Code with curiosity, build with purpose, and never stop learning."</i> 🚀</p>
-</div>
+---
+
+## 🚀 Current Focus
+
+- 🌱 Learning **Generative AI**
+- 🤖 Exploring **LLMs**
+- 🔗 LangChain & AI Agents
+- 📊 Data Analytics
+- 🧠 Machine Learning
+- ☁️ Data Engineering
+- 💻 Backend Development
+
+---
+
+# 🏆 Achievements
+
+🥇 Winner — IIT Ropar Hackathon
+
+🥈 1st Runner-up — TechHer Ideathon
+
+🌟 GSSoC'25 Open Source Contributor
+
+🚀 Built multiple AI-powered real-world applications
+
+---
+
+# 💼 Looking For
+
+✅ Software Development Roles
+
+✅ AI/ML Internships
+
+✅ Data Science Opportunities
+
+✅ Open Source Collaborations
+
+---
+
+# 💡 Interests
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Data Science
+- 📈 Data Analytics
+- 💬 Large Language Models
+- 🔗 LangChain
+- 🚀 Generative AI
+- ⚡ AI Agents
+- 🌐 Full Stack Development
+- ☁️ Cloud Computing
+- 📚 Open Source
+
+---
+
+# ⚡ Top Skills
+
+### Programming Languages
+
+- Python
+- Java
+- C
+- C++
+- JavaScript
+- SQL
+
+### AI & Data Science
+
+- Machine Learning
+
+- Data Analytics
+
+- NLP
+
+- Generative AI
+
+- LangChain
+
+- Prompt Engineering
+
+### Frameworks
+
+- Streamlit
+
+- Flask
+
+- React
+
+### Databases
+
+- SQLite
+
+- SQLAlchemy
+
+### Libraries
+
+- Pandas
+
+- NumPy
+
+- Plotly
+
+- Scikit-Learn
+
+### Tools
+
+- Git
+
+- GitHub
+
+- VS Code
+
+- Excel
+
+---
+
+# 🌐 Connect With Me
+
+📧 **Email**
+
+**somvanshishruti7@gmail.com**
+
+Soon:
+
+- LinkedIn
+
+- LeetCode
+
+- GeeksforGeeks
+
+- Portfolio Website
+
+---
+
+
+
+# 🚀 Featured Projects
+
+<p align="center">
+<i>Here are some of the projects I've built to solve real-world problems using AI, Machine Learning, Data Science, Full Stack Development, and Automation.</i>
+</p>
+
+| 🚀 Project | 🛠 Tech Stack | 📖 Description |
+|------------|--------------|----------------|
+| **🤖 InsideInterview** <br><br>🔗 **Repository:** <br>https://github.com/Shrutiso/InsideInterview <br><br>🌐 **Live Demo:** <br>https://insideinterview.streamlit.app | **Python • Streamlit • Google Gemini • LangChain • SQLite • Pandas • Plotly** | AI-powered personalized interview preparation platform that adapts to the user's target role and skill level. Features include AI Resume Analysis, Personalized Assessments, Resume Gap Analysis, AI Mock Interviews, Career Coach, Personalized Learning Roadmaps, Dashboard Analytics, Performance Tracking, and Intelligent Feedback System powered by Google Gemini. |
+| **💰 SettleWise** <br><br>🔗 **Repository:** <br>https://github.com/Shrutiso/SettleWise <br><br>🌐 **Live Demo:** <br>https://settlewise-expense-app.streamlit.app | **Python • Streamlit • SQLite • SQLAlchemy • Pandas • NumPy • Plotly** | Smart shared expense management platform that simplifies group expense tracking with intelligent settlement optimization. Supports multiple split methods, anomaly detection, CSV import validation, AI-powered financial insights, reporting dashboard, approval workflow, and automated balance calculations. |
+| **💡 FinSaathi AI** <br><br>🔗 **Repository:** <br>https://github.com/Shrutiso/FinSaathi-AI <br><br>🌐 **Live Demo:** <br>https://finsaathiai.lovable.app | **React • TypeScript • Tailwind CSS • Supabase • AI** | AI-powered financial companion that helps users manage expenses, understand credit health, receive personalized financial recommendations, and improve financial literacy through multilingual AI assistance, smart budgeting, and interactive analytics dashboards. |
+| **🌦️ Outlook SmartWeather** <br><br>🔗 **Repository:** <br>https://github.com/Shrutiso/Outlook-SmartWeather | **Python • Flask • HTML • CSS • Pandas • Weather API • Google OAuth** | Intelligent weather platform that converts real-time weather data into actionable daily insights such as rain prediction, umbrella recommendations, clothes drying suitability, AQI monitoring, and weather-based travel suggestions with secure Google authentication. |
+| **😊 Human Emotion Detection** <br><br>🔗 **Repository:** <br>https://github.com/Shrutiso/Emotion_detection-Text-Based- | **Python • Machine Learning • NLP • Scikit-Learn** | Text-based emotion detection system that uses Natural Language Processing and Machine Learning techniques to classify emotions from textual input. Designed to demonstrate sentiment understanding and practical NLP applications. |
+
+---
+
+# 📈 What I Love Building
+
+✨ AI-Powered Applications
+
+🤖 Machine Learning Solutions
+
+📊 Data Analytics Dashboards
+
+🌐 Full Stack Web Applications
+
+💬 Generative AI Projects
+
+📈 Data Visualization Platforms
+
+⚡ Automation Tools
+
+☁️ Intelligent Decision Support Systems
+
+---
+
+# 🧠 Currently Exploring
+
+- Large Language Models (LLMs)
+
+- Retrieval-Augmented Generation (RAG)
+
+- LangChain
+
+- AI Agents
+
+- Prompt Engineering
+
+- MLOps Fundamentals
+
+- Data Engineering
+
+- Advanced SQL
+
+- System Design
+
+---
+# 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
+### 🌐 Web Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,flask" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=sqlite" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
+</p>
+
+### 📊 Data Analytics
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+
+</p>
+
+### ⚙️ Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shrutiso&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrutiso&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrutiso&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrutiso&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shrutiso&theme=algolia&no-frame=true&margin-w=10&row=1"/>
+
+</p>
+
+---
+
+# 💼 Open Source
+
+🌟 GSSoC'25 Contributor
+
+🤝 Always open to collaborating on impactful Open Source Projects.
+
+---
+
+# 📫 Reach Me
+
+📧 **Email:** **somvanshishruti7@gmail.com**
+
+---
+
+# 💭 Quote
+
+<p align="center">
+
+> *"Technology becomes meaningful when it creates real impact. I strive to build intelligent solutions that solve practical problems and make people's lives easier."*
+
+</p>
+
+---
+
+# ⭐ Support My Work
+
+If you find my projects interesting or helpful,
+
+⭐ **consider starring my repositories**
+
+🍴 **Fork them**
+
+🤝 **Contribute to Open Source**
+
+It motivates me to keep building useful AI-powered applications for the community.
+
+---
+
+<h3 align="center">
+
+Thanks for visiting my profile ❤️
+
+Let's build something amazing together! 🚀
+
+</h3>
