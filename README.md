@@ -58,17 +58,7 @@ I believe in learning by building and have developed multiple end-to-end AI proj
 
 🚀 Built multiple AI-powered real-world applications
 
----
 
-# 💼 Looking For
-
-✅ Software Development Roles
-
-✅ AI/ML Internships
-
-✅ Data Science Opportunities
-
-✅ Open Source Collaborations
 
 ---
 
@@ -99,19 +89,7 @@ I believe in learning by building and have developed multiple end-to-end AI proj
 - JavaScript
 - SQL
 
-### AI & Data Science
 
-- Machine Learning
-
-- Data Analytics
-
-- NLP
-
-- Generative AI
-
-- LangChain
-
-- Prompt Engineering
 
 ### Frameworks
 
@@ -121,31 +99,7 @@ I believe in learning by building and have developed multiple end-to-end AI proj
 
 - React
 
-### Databases
 
-- SQLite
-
-- SQLAlchemy
-
-### Libraries
-
-- Pandas
-
-- NumPy
-
-- Plotly
-
-- Scikit-Learn
-
-### Tools
-
-- Git
-
-- GitHub
-
-- VS Code
-
-- Excel
 
 ---
 
@@ -153,17 +107,15 @@ I believe in learning by building and have developed multiple end-to-end AI proj
 
 📧 **Email**
 
-**somvanshishruti7@gmail.com**
+**shrutisomvanshi83@gmail.com**
 
-Soon:
 
-- LinkedIn
 
-- LeetCode
+- LinkedIn : https://www.linkedin.com/in/shruti-somvanshi11704/
 
-- GeeksforGeeks
+- LeetCode : https://leetcode.com/u/somvanshishruti7/
 
-- Portfolio Website
+- Portfolio Website : https://shrutisomvanshiportfolio.lovable.app/
 
 ---
 
@@ -185,45 +137,6 @@ Soon:
 
 ---
 
-# 📈 What I Love Building
-
-✨ AI-Powered Applications
-
-🤖 Machine Learning Solutions
-
-📊 Data Analytics Dashboards
-
-🌐 Full Stack Web Applications
-
-💬 Generative AI Projects
-
-📈 Data Visualization Platforms
-
-⚡ Automation Tools
-
-☁️ Intelligent Decision Support Systems
-
----
-
-# 🧠 Currently Exploring
-
-- Large Language Models (LLMs)
-
-- Retrieval-Augmented Generation (RAG)
-
-- LangChain
-
-- AI Agents
-
-- Prompt Engineering
-
-- MLOps Fundamentals
-
-- Data Engineering
-
-- Advanced SQL
-
-- System Design
 
 ---
 # 🛠️ Tech Stack
@@ -331,7 +244,7 @@ Soon:
 
 # 📫 Reach Me
 
-📧 **Email:** **somvanshishruti7@gmail.com**
+📧 **Email:** **shrutisomvanshi83@gmail.com**
 
 ---
 
