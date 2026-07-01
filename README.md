@@ -3,6 +3,7 @@
 <p align="center">
   <a href="mailto:somvanshishruti7@gmail.com"><img src="https://img.shields.io/badge/Email-somvanshishruti7%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com/in/shrutisomvanshi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/shrutiso"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
   <a href="https://github.com/shrutiso"><img src="https://img.shields.io/github/followers/shrutiso?label=Followers&style=flat-square&color=24292e&logo=github" alt="GitHub Followers"></a>
 </p>
 
@@ -21,6 +22,22 @@ I am a passionate **Data Science & Machine Learning Enthusiast** and **Full-Stac
 * 🚀 **Open Source Contributor** (GSSoC'25) — Actively contributing to open-source software.
 * 🌱 Currently exploring **Advanced RAG, AI Agents, LLM Fine-tuning, & Data Engineering**.
 * 📧 Reach me at: [somvanshishruti7@gmail.com](mailto:somvanshishruti7@gmail.com)
+
+---
+
+## 🎯 Goals & Focus Areas
+
+- 💻 **Target Roles:** Machine Learning Engineer, Generative AI Developer, Data Scientist, Full-Stack AI Developer.
+- ⚡ **Current Learning Track:** Custom AI Agent architectures, Graph Neural Networks, Fine-Tuning LLMs using QLoRA/PEFT, and building robust Vector Databases.
+- 📈 **Long-term:** Contributing to large-scale open source repositories and architecting high-performance, low-latency AI pipelines.
+
+---
+
+## 🌟 Strengths & Work Ethic
+
+- **Analytical Problem Solving**: Strong mathematical and logical foundation, practiced regularly through algorithms and competitive programming.
+- **Collaborative Engineering**: Active open-source participant, accustomed to git workflows, code reviews, and cross-functional hackathon teamwork.
+- **Continuous Adaptation**: Fast at adopting modern libraries and frameworks, with a dedication to writing clean, maintainable, and well-documented code.
 
 ---
 
@@ -101,7 +118,11 @@ I am a passionate **Data Science & Machine Learning Enthusiast** and **Full-Stac
 
 ---
 
-## 📊 GitHub Metrics
+## 📊 GitHub Metrics & Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shrutiso&theme=react&column=5" alt="GitHub Trophies" />
+</p>
 
 <div align="center">
   <table border="0">
@@ -115,6 +136,11 @@ I am a passionate **Data Science & Machine Learning Enthusiast** and **Full-Stac
     </tr>
   </table>
   <br/>
+  
+  ### 🐍 Contribution Grid Snake
+  <img src="https://raw.githubusercontent.com/shrutiso/shrutiso/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <br/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutiso&theme=react&hide_border=true" alt="GitHub Streak" />
 </div>
 
