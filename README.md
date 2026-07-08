@@ -34,17 +34,7 @@ I enjoy combining **Artificial Intelligence, Machine Learning, Data Science, Ana
 
 I believe in learning by building and have developed multiple end-to-end AI projects ranging from interview preparation systems to intelligent finance and weather platforms.
 
----
 
-## 🚀 Current Focus
-
-- 🌱 Learning **Generative AI**
-- 🤖 Exploring **LLMs**
-- 🔗 LangChain & AI Agents
-- 📊 Data Analytics
-- 🧠 Machine Learning
-- ☁️ Data Engineering
-- 💻 Backend Development
 
 ---
 
@@ -60,21 +50,8 @@ I believe in learning by building and have developed multiple end-to-end AI proj
 
 
 
----
 
-# 💡 Interests
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 📊 Data Science
-- 📈 Data Analytics
-- 💬 Large Language Models
-- 🔗 LangChain
-- 🚀 Generative AI
-- ⚡ AI Agents
-- 🌐 Full Stack Development
-- ☁️ Cloud Computing
-- 📚 Open Source
 
 ---
 
@@ -88,28 +65,13 @@ I believe in learning by building and have developed multiple end-to-end AI proj
 - C++
 - JavaScript
 - SQL
-
-
-
-### Frameworks
-
 - Streamlit
-
 - Flask
-
 - React
-
-
-
----
 
 # 🌐 Connect With Me
 
-📧 **Email**
-
-**shrutisomvanshi83@gmail.com**
-
-
+📧 **Email** : **shrutisomvanshi83@gmail.com**
 
 - LinkedIn : https://www.linkedin.com/in/shruti-somvanshi11704/
 
@@ -118,8 +80,6 @@ I believe in learning by building and have developed multiple end-to-end AI proj
 - Portfolio Website : https://shrutisomvanshiportfolio.lovable.app/
 
 ---
-
-
 
 # 🚀 Featured Projects
 
