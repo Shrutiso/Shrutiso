@@ -50,37 +50,6 @@ I believe in learning by building and have developed multiple end-to-end AI proj
 
 
 
-
-
-
----
-
-# ⚡ Top Skills
-
-### Programming Languages
-
-- Python
-- Java
-- C
-- C++
-- JavaScript
-- SQL
-- Streamlit
-- Flask
-- React
-
-# 🌐 Connect With Me
-
-📧 **Email** : **shrutisomvanshi83@gmail.com**
-
-- LinkedIn : https://www.linkedin.com/in/shruti-somvanshi11704/
-
-- LeetCode : https://leetcode.com/u/somvanshishruti7/
-
-- Portfolio Website : https://shrutisomvanshiportfolio.lovable.app/
-
----
-
 # 🚀 Featured Projects
 
 <p align="center">
@@ -202,9 +171,17 @@ I believe in learning by building and have developed multiple end-to-end AI proj
 
 ---
 
-# 📫 Reach Me
+#🌐 Connect With Me
 
-📧 **Email:** **shrutisomvanshi83@gmail.com**
+📧 **Email** : **shrutisomvanshi83@gmail.com**
+
+- LinkedIn : https://www.linkedin.com/in/shruti-somvanshi11704/
+
+- LeetCode : https://leetcode.com/u/somvanshishruti7/
+
+- Portfolio Website : https://shrutisomvanshiportfolio.lovable.app/
+
+
 
 ---
 
