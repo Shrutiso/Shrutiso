@@ -153,24 +153,6 @@ I believe in learning by building and have developed multiple end-to-end AI proj
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shrutiso&theme=algolia&no-frame=true&margin-w=10&row=1"/>
-
-</p>
-
----
-
-# 💼 Open Source
-
-🌟 GSSoC'25 Contributor
-
-🤝 Always open to collaborating on impactful Open Source Projects.
-
----
-
 #🌐 Connect With Me
 
 📧 **Email** : **shrutisomvanshi83@gmail.com**
@@ -180,8 +162,6 @@ I believe in learning by building and have developed multiple end-to-end AI proj
 - LeetCode : https://leetcode.com/u/somvanshishruti7/
 
 - Portfolio Website : https://shrutisomvanshiportfolio.lovable.app/
-
-
 
 ---
 
