@@ -10,7 +10,7 @@ Building AI-powered applications that solve real-world problems using Machine Le
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=650&lines=AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Building+Real-World+AI+Applications;Python+%7C+Java+%7C+Data+Science;Always+Learning+Something+New+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=750&lines=Hi%2C+I'm+Shruti+Somvanshi+%F0%9F%91%8B;B.Tech+Computer+Science+Student;Aspiring+AI+%26+ML+Engineer;Open+Source+Contributor;Building+Real-World+AI+Applications;Python+%7C+Java+%7C+Data+Science;Always+Learning+Something+New+%F0%9F%9A%80" />
 
 </p>
 
