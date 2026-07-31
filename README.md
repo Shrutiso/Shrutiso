@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shruti Somvanshi</h1>
+
 
 <h3 align="center">
 AI & Machine Learning Enthusiast • Data Science Learner • Full Stack Developer • Open Source Contributor 🚀
