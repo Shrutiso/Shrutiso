@@ -1,7 +1,7 @@
 
 
 <h3 align="center">
-AI & Machine Learning Enthusiast • Data Science Learner • Full Stack Developer • Open Source Contributor 🚀
+AI & Machine Learning Enthusiast • Data Science Learner • Full Stack Developer • Open Source Contributor 
 </h3>
 
 <p align="center">
@@ -26,7 +26,7 @@ Building AI-powered applications that solve real-world problems using Machine Le
 
 ---
 
-# 💫 About Me
+#  About Me
 
 🎓 Pre-Final Year B.Tech Student passionate about building AI-powered solutions that solve real-world problems.
 
@@ -46,17 +46,17 @@ I believe in learning by building and have developed multiple end-to-end AI proj
 
 🌟 GSSoC'25 Open Source Contributor
 
-🚀 Built multiple AI-powered real-world applications
 
 
 
-# 🚀 Featured Projects
+
+#  Featured Projects
 
 <p align="center">
 <i>Here are some of the projects I've built to solve real-world problems using AI, Machine Learning, Data Science, Full Stack Development, and Automation.</i>
 </p>
 
-| 🚀 Project | 🛠 Tech Stack | 📖 Description |
+|  Project | 🛠 Tech Stack | 📖 Description |
 |------------|--------------|----------------|
 | **🤖 InsideInterview** <br><br>🔗 **Repository:** <br>https://github.com/Shrutiso/InsideInterview <br><br>🌐 **Live Demo:** <br>https://insideinterview.streamlit.app | **Python • Streamlit • Google Gemini • LangChain • SQLite • Pandas • Plotly** | AI-powered personalized interview preparation platform that adapts to the user's target role and skill level. Features include AI Resume Analysis, Personalized Assessments, Resume Gap Analysis, AI Mock Interviews, Career Coach, Personalized Learning Roadmaps, Dashboard Analytics, Performance Tracking, and Intelligent Feedback System powered by Google Gemini. |
 | **💰 SettleWise** <br><br>🔗 **Repository:** <br>https://github.com/Shrutiso/SettleWise <br><br>🌐 **Live Demo:** <br>https://settlewise-expense-app.streamlit.app | **Python • Streamlit • SQLite • SQLAlchemy • Pandas • NumPy • Plotly** | Smart shared expense management platform that simplifies group expense tracking with intelligent settlement optimization. Supports multiple split methods, anomaly detection, CSV import validation, AI-powered financial insights, reporting dashboard, approval workflow, and automated balance calculations. |
@@ -76,7 +76,7 @@ I believe in learning by building and have developed multiple end-to-end AI proj
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css" />
 </p>
 
-### 🤖 AI / Machine Learning
+###  AI / Machine Learning
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
@@ -183,16 +183,14 @@ If you find my projects interesting or helpful,
 
 🍴 **Fork them**
 
-🤝 **Contribute to Open Source**
 
-It motivates me to keep building useful AI-powered applications for the community.
 
 ---
 
 <h3 align="center">
 
-Thanks for visiting my profile ❤️
+Thanks for visiting my profile 
 
-Let's build something amazing together! 🚀
+Let's build something amazing together! 
 
 </h3>
